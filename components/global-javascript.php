@@ -14,3 +14,5 @@
 <script src="https://profile.codersrank.io/widget/widget.js"></script>
 
 <script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
+
+<script src="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js"></script>
